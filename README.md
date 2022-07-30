@@ -1,4 +1,5 @@
 # SuperByte<p>
+puedo mejorar<p>
 Proyecto Java-SpringBoot-Angular JPA-Mysql<p>
 <p>
 Este proyecto esta elaborado en SpringBoot bajo las clases de Franklin Marcano en cuestion de lo que entendi.<p>
